@@ -1,0 +1,36 @@
+.cart-newsletter-card {
+  background-color: #204fa1;
+  border-radius: 2rem/2rem;
+  padding: 3%;
+  color: white;
+}
+.cart-newsletter {
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-bottom: 2%;
+}
+.cart-newsletter-heading {
+  font-size: 2vmax;
+  font-weight: bold;
+  margin-bottom: 1%;
+}
+.cart-newsletter-subheading {
+  font-size: 1.2vmax;
+  opacity: 75%;
+  margin-bottom: 2%;
+}
+.cart-newsletter-input {
+  border-radius: 2rem/2rem;
+  margin-bottom: 2%;
+  background-color: #d0e7fe;
+}
+.cart-newsletter-button {
+  background-color: #17234d;
+  color: white;
+  border-radius: 2rem/2rem;
+  border: none;
+}
+.cart-newsletter-button:hover {
+  background-color: white;
+  color: #17234d;
+}

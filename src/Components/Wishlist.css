@@ -1,0 +1,110 @@
+.wishlist-heading {
+  font-size: 3vmax;
+  font-weight: 700;
+  text-shadow: 0px 2px 2px #676767;
+  color: #204fa1;
+  margin: 2%;
+  font-weight: bold;
+  margin-left: 4%;
+  margin-bottom: 0px;
+}
+.wishlist-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.wishlist-card-col {
+  padding: 20%;
+}
+.wishlist-card {
+  margin: 10%;
+  border: solid;
+  border-color: #d0e7fe;
+  border-radius: 2rem/2rem;
+  border-width: medium;
+  overflow: hidden;
+  padding: 2%;
+  box-shadow: #17234d;
+}
+.wishlist-img {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  padding: 5%;
+}
+.wishlist-hr {
+  border: solid;
+  color: #204fa1;
+  background-color: #204fa1;
+  border-width: 1.5px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.wishlist-closebtn {
+  display: flex;
+  justify-content: right;
+}
+.wishlist-name {
+  font-weight: bold;
+  font-size: 1.5vmax;
+  color: #204fa1;
+  margin-left: 2%;
+  margin-bottom: 3%;
+}
+.wishlist-price {
+  color: #204fa1;
+  margin-left: 2%;
+  font-size: 1.1vmax;
+  margin-bottom: 3%;
+}
+.wishlist-btn {
+  color: white;
+  background-color: #17234d;
+  font-weight: bold;
+  font-size: 1.5vmax;
+  width: 100%;
+  border-radius: 2rem/2rem;
+}
+.wishlist-benifits {
+  background-color: #d0e7fe;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.wishlist-benifit1 {
+  font-weight: bold;
+  font-size: 2vmax;
+  color: #17234d;
+}
+.wishlist-benifit2 {
+  font-size: 1.2vmax;
+  align-items: center;
+  margin-bottom: 3%;
+}
+.wishlist-benifit3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.benifit-icons {
+  font-size: 6vmax;
+  color: #17234d;
+  opacity: 50%;
+}
+.wishlist-back-to-top {
+  background-color: #204fa1;
+  display: flex;
+  justify-content: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.wishlist-back-to-top-icon {
+  font-size: 3vmax;
+  color: white;
+}
+.wishlist-back-to-top-icon:hover {
+  cursor: pointer;
+}
